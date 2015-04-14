@@ -1,0 +1,15 @@
+04-14 19:24:23.074    2216-2216/com.example.iguest.activityspy I/art﹕ Not late-enabling -Xcheck:jni (already on)
+04-14 19:24:23.148    2216-2216/com.example.iguest.activityspy I/ActivitySpy﹕ onCreate event fired:
+04-14 19:24:23.149    2216-2216/com.example.iguest.activityspy I/ActivitySpy﹕ onStart event fired:
+04-14 19:24:23.150    2216-2216/com.example.iguest.activityspy I/ActivitySpy﹕ onResume event fired:
+04-14 19:24:23.185    2216-2233/com.example.iguest.activityspy D/OpenGLRenderer﹕ Render dirty regions requested: true
+04-14 19:24:23.196    2216-2216/com.example.iguest.activityspy D/﹕ HostConnection::get() New Host Connection established 0xa6c8ec10, tid 2216
+04-14 19:24:23.201    2216-2216/com.example.iguest.activityspy D/Atlas﹕ Validating map...
+04-14 19:24:23.227    2216-2233/com.example.iguest.activityspy D/﹕ HostConnection::get() New Host Connection established 0xa6c8ef80, tid 2233
+04-14 19:24:23.236    2216-2233/com.example.iguest.activityspy I/OpenGLRenderer﹕ Initialized EGL, version 1.4
+04-14 19:24:23.254    2216-2233/com.example.iguest.activityspy D/OpenGLRenderer﹕ Enabling debug mode 0
+04-14 19:24:23.260    2216-2233/com.example.iguest.activityspy W/EGL_emulation﹕ eglSurfaceAttrib not implemented
+04-14 19:24:23.260    2216-2233/com.example.iguest.activityspy W/OpenGLRenderer﹕ Failed to set EGL_SWAP_BEHAVIOR on surface 0xa6c41320, error=EGL_SUCCESS
+04-14 12:24:26.706    2216-2216/com.example.iguest.activityspy I/ActivitySpy﹕ onStop event fired:
+04-14 12:24:26.707    2216-2216/com.example.iguest.activityspy I/ActivitySpy﹕ onStop event fired:
+04-14 12:24:26.707    2216-2216/com.example.iguest.activityspy I/ActivitySpy﹕ We’re going down, Captain!

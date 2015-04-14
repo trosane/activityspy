@@ -72,7 +72,7 @@ public class ActivitySpy extends ActionBarActivity {
 
     protected void onDestroy() {
         super.onDestroy();
-        Log.i(TAG, "onDestroy event fired: ");
+        Log.i(TAG, "We're going down, Captain!");
 
     }
 
