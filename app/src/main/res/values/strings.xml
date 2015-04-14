@@ -2,5 +2,6 @@
     <string name="app_name">activityspy</string>
 
     <string name="hello_world">Hello world!</string>
+    <string name="UW">Greetings UW!</string>
     <string name="action_settings">Settings</string>
 </resources>
